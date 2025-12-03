@@ -1,7 +1,7 @@
 # Calculadora-Cientifica
 Esta calculadora es hecha en C++, el fin de este proyecto es aprender a como usar esta nueva herramienta, a su vez de crear algo util que puedan tener en su dispositivo. Sirve para hacer operaciones simples, aun no realiza operaciones complejas.
-Este programa funciona en cualquier sistema (Windows, Linux, Mac)
-# Pasos para compilar con g++ en Windows
+Este programa funciona SOLO en Windows.
+# Pasos para compilar con g++.
 1.-Abre la consola (cmd o PowerShell)
 
 2.-Navega a tu carpeta del proyecto
