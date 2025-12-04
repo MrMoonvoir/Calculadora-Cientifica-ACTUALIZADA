@@ -1,15 +1,34 @@
 # Calculadora-Cientifica
-Esta calculadora es hecha en C++, el fin de este proyecto es aprender a como usar esta nueva herramienta, a su vez de crear algo util que puedan tener en su dispositivo. Sirve para hacer operaciones simples, aun no realiza operaciones complejas.
-Este programa funciona SOLO en Windows.
-# Pasos para compilar con g++.
-1.-Abre la consola (cmd o PowerShell)
+Este proyecto implementa una calculadora científica en C++ que permite realizar operaciones matemáticas básicas y avanzadas. Está diseñado con principios de programación orientada a objetos, utilizando herencia y composición para organizar las funciones de manera modular y extensible.
 
-2.-Navega a tu carpeta del proyecto
-Ejemplo:
-cd "C:\Users\user\Desktop\Programacion\c++\Calculadora"
+# Funcionalidades
 
-3.-Ejecutar el programa:
-.\calculadora.exe
+La calculadora incluye las siguientes operaciones:
+- Suma, Resta, Multiplicación, División
+- Raíz cuadrada
+- Potencia (base y exponente)
+- Logaritmo natural
+- Funciones trigonométricas:
+  - Seno, Coseno, Tangente
+  - Arcoseno, Arcocoseno, Arcotangente
+- Exponencial
+- Logaritmo base 10
+- Valor absoluto
+- Factorial
 
+# Instrucciones de compilación y ejecución
+
+### Windows
+
+1. Abre cmd o PowerShell.
+2. Navega a la carpeta donde se encuentran los archivos.
+3. Compila el programa.
+   g++ main.cpp
+4. Ejecuta .\calculadora
+
+### Linux/macOS
+1. Abre la terminal.
+2. Navega a la carpeta del proyecto donde se encuentre.
+3. Compila con g++ main.cpp y Ejecuta con ./calculadora
 
 Debería correr tu calculadora científica y mostrar el menú.:)
